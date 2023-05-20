@@ -177,3 +177,5 @@ WoS_WASH_2022_Raw <- readWorkbook( file.choose(),
 
   
 }
+
+# Step2: Calculation Improved Water Source JMP Indicator
